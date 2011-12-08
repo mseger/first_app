@@ -1,0 +1,1 @@
+Modified README. It's much shorter now. We'll update this as we do things. 
